@@ -8,80 +8,69 @@ dify
 
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
+@5
 
 大疆
 DJI
+@5
 
 黑神话
 冯骥
+@5
 
 字节
 bytedance
 张一鸣
+@5
 
 特斯拉
 马斯克
-
-微软
-Microsoft
+@5
 
 英伟达
 NVIDIA
 黄仁勋
+@5
 
 AMD
+@5
 
 谷歌
 google
 gemini
 deepmind
+@5
 
 chatgpt
 openai
 sora
+@5
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
+@5
 
 ai
 !gai
 人工智能
+大模型
+@15
 
 自动驾驶
+@5
 
 机器人
-
-国产
-中国
-
-美国
-日本
-韩国
+@3
 
 芯片
 光刻机
+@5
 
 科技
-
-核能
-
-水电站
-雅鲁藏布江
+@5
 
 新质生产力
+@5
 
 月球
 登月
@@ -89,3 +78,4 @@ ai
 宇宙
 飞船
 航空
+@5
